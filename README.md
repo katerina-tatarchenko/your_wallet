@@ -4,5 +4,5 @@ An application for controlling financial income and expenses
 
 
 
-
+GiFSongs:
 ![Songs](https://github.com/katerina-tatarchenko/your_wallet/blob/main/ezgif.com-gif-maker.gif)
