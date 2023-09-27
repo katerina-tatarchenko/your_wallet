@@ -1,5 +1,6 @@
 # your_wallet
 An application for controlling financial income and expenses
+
 Enables:
 1. Track expenses and income for a day, week, month, year
 2. Visually assess the statistics and balance of financial transactions
